@@ -116,5 +116,8 @@
 </DATA>
 </MAPSET>
 </MAP>
+
+<MAP MODE="OUTPUT">
+</MAP>
 </INVOKE>
 </FLOW>
