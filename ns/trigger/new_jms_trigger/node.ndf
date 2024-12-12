@@ -7,6 +7,12 @@
   <value name="node_pkg">JMSTest</value>
   <value name="node_comment"></value>
   <value name="is_public">false</value>
+  <value name="displayName"></value>
+  <value name="favorite"></value>
+  <value name="tags"></value>
+  <value name="since"></value>
+  <value name="deprecated"></value>
+  <value name="is_visible"></value>
   <value name="trigger_type">jms-trigger</value>
   <record name="trigger" javaclass="com.wm.util.Values">
     <value name="concurrent">true</value>
@@ -28,7 +34,7 @@
     <value name="resolutionHistoryTTL">7200000</value>
     <value name="uniqueId">pkStwX2ID0x3JOqSZU3danW33n4=</value>
     <value name="executeUser">Administrator</value>
-    <value name="aliasName">vmiboint01_jms</value>
+    <value name="aliasName">DEFAULT_IS_JMS_CONNECTION</value>
     <number name="jmsTriggerType" type="Integer">0</number>
     <Boolean name="enabled">true</Boolean>
     <value name="prefetchSize">10</value>
